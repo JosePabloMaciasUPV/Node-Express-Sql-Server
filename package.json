@@ -1,0 +1,19 @@
+{
+  "name": "sql_api_node_express",
+  "version": "1.0.0",
+  "description": "sql_Server_Api",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mssql": "^6.0.0",
+    "webpack-cli": "^3.3.10"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Pablo Martinez Macas",
+  "license": "ISC"
+}
